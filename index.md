@@ -114,8 +114,6 @@
         <a href="https://twitter.com/AnushkaKrishna9" class="Images"><img src="Images/-Twitter-118be4.svg" height="36vh"></a>
         <a href="https://github.com/iitmanushka137" class="Images"><img src="Images/GitHub.svg" height="36vh"></a>
         <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=krishnaanushka137@gmail.com" class="Images"><img src="Images/GMail.svg" height="30vh" width="30vh"></a>
-    </div>
-  </p>
 
 <h2>
   <img src="/Images/GitHub.svg" height="27px" width="27px">
