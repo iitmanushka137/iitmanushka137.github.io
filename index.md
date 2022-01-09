@@ -1,5 +1,3 @@
-
-
 <h1 align="center"> <br>
   Hello, I am Anushka Krishna.
 </h1>
@@ -8,14 +6,14 @@
 
 <h2>📜 Education</h2>
 <p>
-- Pursuing B.Sc. in Programming and Data Science** from IIT Madras (2021-2024). <br>
+- Pursuing B.Sc. in Programming and Data Science from IIT Madras (2021-2024). <br>
 - Pursuing B.Tech. in Electronics & Communication Engineering from Muzaffarpur Institute of Technology (2019-2023). <br>
-- Completed Intermediate** from Harrow English School (CBSE-91%)(2017-2019). <br>
+- Completed Intermediate from Harrow English School (CBSE-91%)(2017-2019). <br>
 - Completed High School from Holy Cross School, Darbhanga (CBSE-10 CGPA)(2005-2017). <br> <br></p>
 
 <h2>👨🏻‍💼 Experience</h2>
 <p>
-- Completed 4-weeks of In-plant training internship at **BSNL, Darbhanga**.<br>
+- Completed 4-weeks of In-plant training internship at BSNL, Darbhanga.<br>
 - Conference Auditorium Help-desk IIT Coordinator at PanIIT Alumni India. <br>
 - College Ambassador at Techfest(Kshitij), IIT Kharagpur. <br> <br></p>
 
@@ -72,36 +70,38 @@
 <h3> Certifications </h3>
 <table align="center">
   <td>
-    ✨ Problem Solving Through Programming in C (NPTEL) <br>
-    ✨ Signals And Systems (NPTEL) <br>
-    ✨ Foundational Course in Programming and Data Science by IIT Madras<br>
-    ✨ CODE RIDERS-2021 (CISCO NETWORKING ACADEMY) <br>
-    ✨ An Introduction to Internet Of Things ( IoT) Specialization (COURSERA) <br>
-    <p> &nbsp &nbsp -Interfacing with the Arduino <br>
-        &nbsp &nbsp -Interfacing with the Raspberry Pi <br>
-        &nbsp &nbsp -Introduction to internet of things and embedded systems <br>
-        &nbsp &nbsp -The Arduino Platform and C Programming <br>
-        &nbsp &nbsp -The Raspberry Pi Platform and Python Programming for Raspberry Pi <br>
-        &nbsp &nbsp -Programming for Everybody (Getting Started with Python) <br>
-        &nbsp &nbsp -Python Data Structures <br></p>
-    ✨ CODE RIDERS-2021 by CISCO NETWORKING ACADEMY<br>
+    ✨  Problem Solving Through Programming in C (NPTEL) <br>
+    ✨  Signals And Systems (NPTEL) <br>
+    ✨  Foundational Course in Programming and Data Science by IIT Madras<br>
+    ✨  CODE RIDERS-2021 (CISCO NETWORKING ACADEMY) <br>
+    ✨  An Introduction to Internet Of Things ( IoT) Specialization (COURSERA) <br>
+    <p> &nbsp;&nbsp; -Interfacing with the Arduino <br>
+        &nbsp;&nbsp; -Interfacing with the Raspberry Pi <br>
+        &nbsp;&nbsp; -Introduction to internet of things and embedded systems <br>
+        &nbsp;&nbsp; -The Arduino Platform and C Programming <br>
+        &nbsp;&nbsp; -The Raspberry Pi Platform and Python Programming for Raspberry Pi <br>
+        &nbsp;&nbsp; -Programming for Everybody (Getting Started with Python) <br>
+        &nbsp;&nbsp; -Python Data Structures <br></p>
+    ✨  CODE RIDERS-2021 by CISCO NETWORKING ACADEMY<br>
   </td>
 </table> <br>
 <h3> Awards and Honors</h3>
 <table align="center">
   <td>
-    ✨Secured 2nd position in Innovation for Disaster Mitigation Preparedness and Response Model Competition at M.I.T. Muzaffarpur <br>
-    ✨Secured 2nd position in Innovation for Disaster Mitigation, Preparedness and Response Poster Competition at M.I.T. Muzaffarpur <br>
-    ✨Secured 3rd position in Dramatics on Fiesta-2019 at M.I.T. Muzaffarpur<br>
-    ✨Secured 2nd position in PRAKRITI-Ayurveda Gyan Presentation at M.I.T. Muzaffarpur<br>
+    ✨ Secured 2nd position in Innovation for Disaster Mitigation Preparedness and Response Model Competition at M.I.T. Muzaffarpur <br>
+    ✨ Secured 2nd position in Innovation for Disaster Mitigation, Preparedness and Response Poster Competition at M.I.T. Muzaffarpur <br>
+    ✨ Secured 3rd position in Dramatics on Fiesta-2019 at M.I.T. Muzaffarpur<br>
+    ✨ Secured 2nd position in PRAKRITI-Ayurveda Gyan Presentation at M.I.T. Muzaffarpur<br>
+</table>
 
-
-<h2>✨ Interests and Hobbies</h2>
-    <p>
+<h3>✨ Interests and Hobbies</h3>
+<table align="center">
+    <td>
 - Meticulousness <br>
 - Travelling <br>
 - Badminton <br>
-- Sketching & Painting <br> <br></p>
+- Sketching & Painting <br> <br>
+      </table>
 
 
 <h2>Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
@@ -128,8 +128,7 @@
   </p>
 </table>
 
-![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iitmanushka137&bg_color=291B3E&color=DD58C1&line=DD58C1&point=A861FF&area=true&hide_border=true)
-<details align="center">
+<a href="https://activity-graph.herokuapp.com/graph?username=iitmanushka137",align="center">My GitHub Activity Graph</a>
   <summary> <samp>&#9776; More details </samp></summary>
     <p align="center">
       <img alt="My GitHub Metrics" src="https://metrics.lecoq.io/iitmanushka137?template=classic&introduction=1&languages=1&isocalendar=1&stars=1&people=1&gists=1&followup=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta">
