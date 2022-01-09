@@ -1,4 +1,4 @@
-<body style="background-color:#33475b">
+
 
 <h1 align="center"> <br>
   Hello, I am Anushka Krishna.
@@ -6,16 +6,18 @@
 
 <img align="center" class="Welcome SVG" src="https://readme-typing-svg.herokuapp.com?color=%23DC5CC4&size=40&center=true&vCenter=true&width=1200&height=100&lines=Anushka+Krishna's+GitHub+Portfolio!" />
 
-## 📜 Education
-- Pursuing **B.Sc. in Programming and Data Science** from IIT Madras (2021-2024). <br>
-- Pursuing **B.Tech. in Electronics & Communication Engineering** from Muzaffarpur Institute of Technology (2019-2023). <br>
-- Completed **Intermediate** from Harrow English School (CBSE-91%)(2017-2019). <br>
-- Completed **High School** from Holy Cross School, Darbhanga (CBSE-10 CGPA)(2005-2017). <br> <br>
+<h2>📜 Education</h2>
+<p>
+- Pursuing B.Sc. in Programming and Data Science** from IIT Madras (2021-2024). <br>
+- Pursuing B.Tech. in Electronics & Communication Engineering from Muzaffarpur Institute of Technology (2019-2023). <br>
+- Completed Intermediate** from Harrow English School (CBSE-91%)(2017-2019). <br>
+- Completed High School from Holy Cross School, Darbhanga (CBSE-10 CGPA)(2005-2017). <br> <br></p>
 
-## 👨🏻‍💼 Experience
+<h2>👨🏻‍💼 Experience</h2>
+<p>
 - Completed 4-weeks of In-plant training internship at **BSNL, Darbhanga**.<br>
 - Conference Auditorium Help-desk IIT Coordinator at PanIIT Alumni India. <br>
-- College Ambassador at Techfest(Kshitij), IIT Kharagpur. <br> <br>
+- College Ambassador at Techfest(Kshitij), IIT Kharagpur. <br> <br></p>
 
 <h2>
   Skill set
@@ -66,8 +68,8 @@
 </p> <br>
 
 
-## 🏆 Achievements
-<h2> Certifications </h2>
+<h2>🏆 Achievements</h2>
+<h3> Certifications </h3>
 <table align="center">
   <td>
     ✨ Problem Solving Through Programming in C (NPTEL) <br>
@@ -81,19 +83,28 @@
         &nbsp &nbsp -The Arduino Platform and C Programming <br>
         &nbsp &nbsp -The Raspberry Pi Platform and Python Programming for Raspberry Pi <br>
         &nbsp &nbsp -Programming for Everybody (Getting Started with Python) <br>
-        &nbsp &nbsp -Python Data Structures <br>
+        &nbsp &nbsp -Python Data Structures <br></p>
     ✨ CODE RIDERS-2021 by CISCO NETWORKING ACADEMY<br>
   </td>
 </table> <br>
+<h3> Awards and Honors</h3>
+<table align="center">
+  <td>
+    ✨Secured 2nd position in Innovation for Disaster Mitigation Preparedness and Response Model Competition at M.I.T. Muzaffarpur <br>
+    ✨Secured 2nd position in Innovation for Disaster Mitigation, Preparedness and Response Poster Competition at M.I.T. Muzaffarpur <br>
+    ✨Secured 3rd position in Dramatics on Fiesta-2019 at M.I.T. Muzaffarpur<br>
+    ✨Secured 2nd position in PRAKRITI-Ayurveda Gyan Presentation at M.I.T. Muzaffarpur<br>
 
-## ✨ Interests and Hobbies
+
+<h2>✨ Interests and Hobbies</h2>
+    <p>
 - Meticulousness <br>
 - Travelling <br>
 - Badminton <br>
-- Sketching & Painting <br> <br>
+- Sketching & Painting <br> <br></p>
 
 
-## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+<h2>Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
 <div class="footer" id="top3">
   <center> 
