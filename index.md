@@ -126,11 +126,8 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iitmanushka137&show_icons=true&theme=jolly" >
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iitmanushka137&theme=jolly" >
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iitmanushka137&theme=jolly&layout=compact">
-  </p>
-</table>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=iitmanushka137",align="center">My GitHub Activity Graph</a>
-  <summary> <samp>&#9776; More details </samp></summary>
+<h2>
     <p align="center">
       <img alt="My GitHub Metrics" src="https://metrics.lecoq.io/iitmanushka137?template=classic&introduction=1&languages=1&isocalendar=1&stars=1&people=1&gists=1&followup=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta">
     </p>
