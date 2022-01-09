@@ -92,6 +92,7 @@
     ✨ Secured 2nd position in Innovation for Disaster Mitigation, Preparedness and Response Poster Competition at M.I.T. Muzaffarpur <br>
     ✨ Secured 3rd position in Dramatics on Fiesta-2019 at M.I.T. Muzaffarpur<br>
     ✨ Secured 2nd position in PRAKRITI-Ayurveda Gyan Presentation at M.I.T. Muzaffarpur<br>
+    </td>
 </table>
 
 <h3>✨ Interests and Hobbies</h3>
@@ -101,7 +102,8 @@
 - Travelling <br>
 - Badminton <br>
 - Sketching & Painting <br> <br>
-      </table>
+     </td>
+  </table>
 
 
 <h2>Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
