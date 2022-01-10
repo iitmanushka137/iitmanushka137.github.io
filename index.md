@@ -8,8 +8,8 @@
 <p>
 - Pursuing B.Sc. in Programming and Data Science from IIT Madras (2021-2024). <br>
 - Pursuing B.Tech. in Electronics & Communication Engineering from Muzaffarpur Institute of Technology (2019-2023). <br>
-- Completed Intermediate from Harrow English School (CBSE-91%)(2017-2019). <br>
-- Completed High School from Holy Cross School, Darbhanga (CBSE-10 CGPA)(2005-2017). <br> <br></p>
+- Completed Senior Secondary Schooling from Harrow English School (CBSE-91%)(2017-2019). <br>
+- Completed Secondary Schooling from Holy Cross School, Darbhanga (CBSE-10 CGPA)(2005-2017). <br> <br></p>
 
 <h2>👨🏻‍💼 Experience</h2>
 <p>
