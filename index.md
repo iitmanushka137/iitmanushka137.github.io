@@ -1,3 +1,4 @@
+<html>
 <h1 align="center"> <br>
   Hello, I am Anushka Krishna.
 </h1>
@@ -136,7 +137,7 @@
       <a>
         <img src="https://github-profile-trophy.vercel.app/?username=iitmanushka137&theme=monokai">
       </a>
-    </p>
-</details> <br> 
+    </p><br> 
 
 <hr>
+  </html>
