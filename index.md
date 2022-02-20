@@ -3,7 +3,7 @@
   Hello, I am Anushka Krishna.
 </h1>
 
-<img align="center" class="Welcome SVG" src="https://readme-typing-svg.herokuapp.com?color=%23DC5CC4&size=40&center=true&vCenter=true&width=1200&height=100&lines=Anushka+Krishna's+GitHub+Portfolio!" />
+<img align="center" class="Welcome SVG" src="https://readme-typing-svg.herokuapp.com?color=%23DC5CC4&size=40&center=true&vCenter=true&width=1200&height=100&lines=Anushka+Krishna's+GitHub+Portfolio!">
 
 <h2>📜 Education</h2>
 <p>
@@ -84,13 +84,17 @@
         &nbsp;&nbsp; -Programming for Everybody (Getting Started with Python) <br>
         &nbsp;&nbsp; -Python Data Structures <br></p>
     ✨  CODE RIDERS-2021 by CISCO NETWORKING ACADEMY<br>
+    ✨  Introduction to Networking by CISCO NETWORKING ACADEMY<br>
+    ✨  Python(Basic) by Hackerrank<br>
+    ✨  SQL(Basic) by Hackerrank<br>
   </td>
 </table> <br>
 <h3> Awards and Honors</h3>
 <table align="center">
   <td>
-    ✨ Secured 2nd position in Innovation for Disaster Mitigation Preparedness and Response Model Competition at M.I.T. Muzaffarpur <br>
-    ✨ Secured 2nd position in Innovation for Disaster Mitigation, Preparedness and Response Poster Competition at M.I.T. Muzaffarpur <br>
+    ✨ Secured 2nd position in Innovation for Disaster Mitigation Preparedness and Response Model Competition for Earthquake Prediction using Primary and Secondary waves of Earthquake at M.I.T. Muzaffarpur under AICTE Guidelines <br>
+    ✨ Secured 2nd position in Innovation for Disaster Mitigation, Preparedness and Response Poster Competition for Earthquake Prediction using Primary and Secondary waves of Earthquake at M.I.T. Muzaffarpur under AICTE Guidelines <br>
+    ✨Secured 2nd Position in Debate against Dowry System and Liquor Ban in Bihar at M.I.T. Muzaffarpur <br>
     ✨ Secured 3rd position in Dramatics on Fiesta-2019 at M.I.T. Muzaffarpur<br>
     ✨ Secured 2nd position in PRAKRITI-Ayurveda Gyan Presentation at M.I.T. Muzaffarpur<br>
     </td>
@@ -107,7 +111,7 @@
   </table>
 
 
-<h2>Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<h2>Connect with me:<img src = 'https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
 <div class="footer" id="top3">
   <center> 
@@ -130,6 +134,7 @@
     <p align="center">
       <img alt="My GitHub Metrics" src="https://metrics.lecoq.io/iitmanushka137?template=classic&introduction=1&languages=1&isocalendar=1&stars=1&people=1&gists=1&followup=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta">
     </p>
+ 
   <p align="center">
       <h3>
         🏆 Github Profile Trophies
@@ -139,5 +144,5 @@
       </a>
     </p><br> 
 
-<hr>
-  </html>
+ <hr>
+</html>
