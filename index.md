@@ -73,8 +73,10 @@
   <td>
     ✨  Problem Solving Through Programming in C (NPTEL) <br>
     ✨  Signals And Systems (NPTEL) <br>
+    ✨  The Joy of Computing Using Python (NPTEL) <br>
     ✨  Foundational Course in Programming and Data Science by IIT Madras<br>
     ✨  CODE RIDERS-2021 (CISCO NETWORKING ACADEMY) <br>
+    ✨  Introduction to Cybersecurity <br>
     ✨  An Introduction to Internet Of Things ( IoT) Specialization (COURSERA) <br>
     <p> &nbsp;&nbsp; -Interfacing with the Arduino <br>
         &nbsp;&nbsp; -Interfacing with the Raspberry Pi <br>
